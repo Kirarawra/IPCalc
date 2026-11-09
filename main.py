@@ -59,4 +59,3 @@ label_hasil.pack(pady=10)
 window.mainloop()
 =======
 window.mainloop()
->>>>>>> 4e6ba0174a07c90bcec6746d5f7f80b5515c34d0
