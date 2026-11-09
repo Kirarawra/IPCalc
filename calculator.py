@@ -1,4 +1,5 @@
 import ipaddress
+<<<<<<< HEAD
 
 def hitung_subnet(ip):
     jaringan = ipaddress.ip_interface(ip)
@@ -13,3 +14,5 @@ def hitung_subnet(ip):
     }
 
     return hasil
+=======
+>>>>>>> 4e6ba0174a07c90bcec6746d5f7f80b5515c34d0
